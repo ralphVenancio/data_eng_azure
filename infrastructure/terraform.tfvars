@@ -1,0 +1,1 @@
+az_rg_name = "rg_ralph_test"
